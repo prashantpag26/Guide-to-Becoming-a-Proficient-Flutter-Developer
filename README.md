@@ -6,8 +6,8 @@ As a Flutter developer, there's a broad range of topics you should learn to beco
    - Introduction to Flutter and Dart
    - Setting up the Flutter development environment
    - <a href="https://github.com/prashantpag26/Structure-of-Flutter-Project" target="_blank">Understanding Flutter project structure</a>
-   - Writing your first Flutter app
-   - StatelessWidget and StatefulWidget
+   - <a href="https://github.com/prashantpag26/Writing-your-first-Flutter-app" target="_blank">Writing your first Flutter app</a>
+   - <a href="https://github.com/prashantpag26/StatelessWidget-and-StatefulWidget" target="_blank">StatelessWidget and StatefulWidget</a>
 
 2. **Dart Language Fundamentals**
    - Variables, data types, and operators
