@@ -10,9 +10,9 @@ As a Flutter developer, there's a broad range of topics you should learn to beco
    - <a href="https://github.com/prashantpag26/StatelessWidget-and-StatefulWidget" target="_blank">StatelessWidget and StatefulWidget</a>
 
 2. **Dart Language Fundamentals**
-   - Variables, data types, and operators
-   - Control flow statements (if, for, while, switch)
-   - Functions and methods
+   - <a href="https://github.com/prashantpag26/Dart-Variables-data-types-and-operators" target="_blank">Variables, data types, and operators</a>
+   - <a href="https://github.com/prashantpag26/Control-flow-statements-if-for-while-switch" target="_blank">Control flow statements (if, for, while, switch)</a>
+   - <a href="https://github.com/prashantpag26/Functions-and-methods" taget="_blank">Functions and methods</a>
    - Classes and objects
    - Exception handling
    - Collections (List, Set, Map)
