@@ -14,7 +14,7 @@ As a Flutter developer, there's a broad range of topics you should learn to beco
    - <a href="https://github.com/prashantpag26/Control-flow-statements-if-for-while-switch" target="_blank">Control flow statements (if, for, while, switch)</a>
    - <a href="https://github.com/prashantpag26/Functions-and-methods" taget="_blank">Functions and methods</a>
    - <a href="https://github.com/prashantpag26/Dart-Classes-and-Objects" target="_blank">Classes and objects</a>
-   - Exception handling
+   - <a href="https://github.com/prashantpag26/Exception-handling" target="_blank">Exception handling</a>
    - Collections (List, Set, Map)
 
 3. **Basic Widgets**
